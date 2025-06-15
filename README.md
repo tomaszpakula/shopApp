@@ -1,35 +1,44 @@
-## **Test cases**
+# **ShopApp**
 
-🟢 **Login**
-
-**Test cases**: 6
-
-**Assertions**: 19
-
-🟢 **Register**
-
-**Test cases**: 7
-
-**Assertions**: 51
-
-🟢 **Products**
-
-**Test cases**: 11
-
-**Assertions**: 24
-
-🟢 **Payments**
-
-**Test cases**: 8
-
-**Assertions**: 23
-
-🔴 **Total**
-
-**Test cases**: 30+
-
-**Assertions**: 100+
+## **Go**
+```
+go run main.go
+```
 
 
-**Unit testing**
-Assertions: 100
+## **React**
+```
+npm install
+npm run dev
+```
+
+## **Functionality**
+
+✅ Products view with an ability to add to cart
+
+✅ Cart view with removing items, clearing cart, and going to pay
+
+✅ Mocked Payments
+
+✅ Sign in and sign up via form and Google, Facebook Oauth2
+
+## **Tests**
+
+✅ 30+ testcases with 100+ assertions in **Selenium**
+
+✅ Unit tests with 100+ assertions in **Vitest**
+
+✅ API tests in **Cypress**
+
+✅ **Selenium** tests runned on **Browserstack**
+
+## **Demo**
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
