@@ -1,6 +1,9 @@
 # **ShopApp**
 
-## **Go**
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Go](https://img.shields.io/badge/Backend-Go-9cf)
+![sqlite](https://img.shields.io/badge/Databse-Sqlite-d92)
+## **Go** (Echo + gorm)
 ```
 go run main.go
 ```
